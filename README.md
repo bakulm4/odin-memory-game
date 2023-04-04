@@ -1,1 +1,1 @@
-# odin-memory-game
+# A memory game implemented using React
